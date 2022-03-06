@@ -1,4 +1,4 @@
-# Market-Basket-Analysis
+# Customer Segmentation
 Step 1: Data Cleaning:
 1. Perform a preliminary data inspection and data cleaning.
 a. Check for missing data and formulate an apt strategy to treat them.
